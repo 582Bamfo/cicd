@@ -1,4 +1,4 @@
 variable "name" {
   type = string
-  default = "zebra"
+  default = "zebra1"
 }
